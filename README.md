@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogeshwar
 - 👀 I’m interested in Python,Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Programming and ML projects
 - 📫 How to reach me mail-ID-syog19129.ce@rmkec.ac.in
 
