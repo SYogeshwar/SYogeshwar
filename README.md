@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yogeshwar
-- 👀 I’m interested in Python,Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Programming and ML projects
+- 👀 I’m a GIS Developer
+- 🌱 I’m a Data Science Enthusiast
 - 📫 How to reach me mail-ID-yogeshwar.sampath@gmail.com
 
 <!---
